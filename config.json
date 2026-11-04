@@ -1,0 +1,253 @@
+{
+  "addon": {
+    "id": "org.nuvio.personal.movie-sagas",
+    "name": "Movie Sagas",
+    "description": "Rotating film sagas and a permanent franchise library. Catalogues only."
+  },
+  "timezone": "Australia/Perth",
+  "slot_count": 8,
+  "keep_all_seeds": false,
+  "pool_limit": 80,
+  "seed_collections": [
+    {
+      "id": 2344,
+      "title": "The Matrix"
+    },
+    {
+      "id": 10,
+      "title": "Star Wars"
+    },
+    {
+      "id": 119,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "id": 121938,
+      "title": "The Hobbit"
+    },
+    {
+      "id": 131635,
+      "title": "The Hunger Games"
+    },
+    {
+      "id": 295,
+      "title": "Pirates of the Caribbean"
+    },
+    {
+      "id": 422837,
+      "title": "Blade Runner"
+    },
+    {
+      "id": 8091,
+      "title": "Alien"
+    },
+    {
+      "id": 528,
+      "title": "Terminator"
+    },
+    {
+      "id": 735,
+      "title": "Blade"
+    },
+    {
+      "id": 1733,
+      "title": "The Mummy"
+    },
+    {
+      "id": 399,
+      "title": "Predator"
+    },
+    {
+      "id": 8945,
+      "title": "Mad Max"
+    },
+    {
+      "id": 726871,
+      "title": "Dune"
+    },
+    {
+      "id": 2794,
+      "title": "Riddick / Pitch Black"
+    },
+    {
+      "id": 63043,
+      "title": "Tron"
+    },
+    {
+      "id": 1241,
+      "title": "Harry Potter"
+    },
+    {
+      "id": 435259,
+      "title": "Fantastic Beasts"
+    },
+    {
+      "id": 328,
+      "title": "Jurassic Park & World"
+    },
+    {
+      "id": 84,
+      "title": "Indiana Jones"
+    },
+    {
+      "id": 264,
+      "title": "Back to the Future"
+    },
+    {
+      "id": 420,
+      "title": "The Chronicles of Narnia"
+    },
+    {
+      "id": 87096,
+      "title": "Avatar"
+    },
+    {
+      "id": 2326,
+      "title": "Underworld"
+    },
+    {
+      "id": 17255,
+      "title": "Resident Evil"
+    },
+    {
+      "id": 86055,
+      "title": "Men in Black"
+    },
+    {
+      "id": 2980,
+      "title": "Ghostbusters"
+    },
+    {
+      "id": 5547,
+      "title": "RoboCop"
+    },
+    {
+      "id": 363369,
+      "title": "Pacific Rim"
+    },
+    {
+      "id": 295130,
+      "title": "The Maze Runner"
+    },
+    {
+      "id": 283579,
+      "title": "Divergent"
+    },
+    {
+      "id": 8650,
+      "title": "Transformers"
+    },
+    {
+      "id": 173710,
+      "title": "Planet of the Apes \u2014 Modern"
+    },
+    {
+      "id": 1709,
+      "title": "Planet of the Apes \u2014 Classics"
+    },
+    {
+      "id": 115575,
+      "title": "Star Trek \u2014 Modern"
+    },
+    {
+      "id": 151,
+      "title": "Star Trek \u2014 Original Films"
+    },
+    {
+      "id": 115570,
+      "title": "Star Trek \u2014 Next Generation"
+    }
+  ],
+  "featured_collection_ids": [
+    2344,
+    10,
+    119,
+    8091,
+    528,
+    1733,
+    422837
+  ],
+  "rotating_slots": [
+    {
+      "id": "featured",
+      "name": "Featured Saga",
+      "genres": []
+    },
+    {
+      "id": "space",
+      "name": "Space Saga",
+      "genres": [
+        878
+      ],
+      "collection_ids": [
+        10,
+        115575,
+        151,
+        115570,
+        87096,
+        726871
+      ]
+    },
+    {
+      "id": "dark-scifi",
+      "name": "Dark Sci-Fi",
+      "genres": [
+        878
+      ],
+      "collection_ids": [
+        2344,
+        422837,
+        8091,
+        528,
+        2794,
+        5547,
+        399
+      ]
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy Quest",
+      "genres": [
+        14
+      ]
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure Classic",
+      "genres": [
+        12
+      ]
+    },
+    {
+      "id": "action",
+      "name": "Action Saga",
+      "genres": [
+        28
+      ]
+    },
+    {
+      "id": "horror",
+      "name": "Horror Franchise",
+      "genres": [
+        27
+      ]
+    },
+    {
+      "id": "rediscover",
+      "name": "Rediscover a Saga",
+      "genres": []
+    }
+  ],
+  "discovery": {
+    "enabled": true,
+    "max_candidate_movies": 40
+  },
+  "excluded_company_ids": [
+    420
+  ],
+  "allowed_marvel_collection_ids": [
+    735
+  ],
+  "minimum_released_films": 2,
+  "discovery_min_vote_count": 100
+}
