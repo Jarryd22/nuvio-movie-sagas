@@ -17,17 +17,18 @@ Newly discovered franchises enter the spotlight pool only after validation: at l
 
 ## Hosting
 
-The `Refresh Movie Sagas` workflow publishes a static GitHub Pages site. The PC can be off. GitHub schedules can be delayed, and Nuvio can keep loaded catalogue rows until app restart; this is periodic refresh, not continuous live streaming of updates.
+The `Refresh Movie Sagas` workflow publishes a static GitHub Pages site. The PC can be off. Its six-hour schedule is disabled by default until the repository variable `CATALOGUE_SCHEDULE_ENABLED` is set to `true`. GitHub schedules can be delayed, and Nuvio can keep loaded catalogue rows until app restart; this is periodic refresh, not continuous live streaming of updates.
 
 1. Put a personal TMDB API Read Access Token in the repository Actions secret **TMDB_READ_TOKEN**. An API v3 key in **TMDB_API_KEY** is also supported. Do not put either value in a file or issue.
-2. Enable GitHub Pages with **GitHub Actions** as its build source. Free Pages hosting normally requires a public repository; private repository Pages requires an eligible paid GitHub plan. The published site is public catalogue metadata.
-3. Run **Refresh Movie Sagas** manually once. Verify the build and Pages deployment before adding the manifest URL to Nuvio.
+2. Keep this repository public and enable GitHub Pages with **GitHub Actions** as its build source. The source and published catalogue metadata are public; no paid hosting plan is needed for this setup.
+3. Leave `CATALOGUE_SCHEDULE_ENABLED` unset or set to `false`. Enable the workflow if it is manually disabled, then run **Refresh Movie Sagas** manually once. The deploy job verifies all 45 live catalogue feeds after Pages publishes them; require that check to pass before adding the manifest URL to Nuvio.
 4. Add `<site-url>/manifest.json` through Nuvio's Addons screen. Use its catalogues in the Movie Sagas folder.
 5. Refresh Nuvio Addons and reopen the app for the first installation. Verify actual catalogue loading and an existing playback provider before replacing the old source rows.
+6. Only after the manual deployment and Nuvio checks pass, set the repository Actions variable **CATALOGUE_SCHEDULE_ENABLED** to `true` to start the six-hour schedule. Set it back to `false` to pause automatic refreshes while retaining manual runs.
 
 No Nuvio login token, Comet URL, TorBox key, MDBList key or private account export belongs in this repository or its Actions secrets. Only a TMDB credential is required. All published movie IDs use IMDb identifiers so existing metadata and stream addons can resolve them.
 
-Each successful refresh commits a small public selection-status file, keeping a useful history and repository activity. GitHub may disable scheduled workflows in inactive public repositories after 60 days, so an extended outage still needs attention. A failed refresh leaves the last successful site deployed. Missing TMDB credentials skip publication and mark the run as setup pending.
+Each successful catalogue build commits a small public selection-status file, keeping a useful build history and repository activity. That commit records the build, not a verified deployment: the Pages publish and live verification happen afterward. GitHub may disable scheduled workflows in inactive public repositories after 60 days, so an extended outage still needs attention. A failed build leaves the previous site unchanged. A failed post-deployment check marks the run as failed but does not automatically roll back the published site. Missing TMDB credentials skip publication and mark the run as setup pending.
 
 ## Local checks
 
@@ -41,7 +42,7 @@ python src/verify_deploy.py --base-url https://YOUR-PUBLIC-CATALOGUE-HOST --conf
 
 The builder reads authentication from environment variables. Do not paste a credential into the command line. `--date YYYY-MM-DD` is available for deterministic rotation tests. A successful build writes standard manifest/catalogue JSON, `selections.json` and a public metadata cache. The hosting workflow copies the landing page and artwork into the output afterward.
 
-Before connecting Nuvio, the deployment verifier must pass against the actual host. It checks all 45 catalogue endpoints, fixed spotlight headings, released IMDb-linked films in newest-first order, browser access headers, and a real 404 for an unknown catalogue. The `site/_headers` and `site/404.html` files also support Cloudflare Pages hosting while keeping this source repository private; include every file in `site/` in the published output.
+Before connecting Nuvio, the deployment verifier must pass against the actual host. The deploy job runs it automatically using the URL returned by GitHub Pages. It checks all 45 catalogue endpoints, fixed spotlight headings, released IMDb-linked films in newest-first order, browser access headers, and a real 404 for an unknown catalogue. Include every file in `site/` in the published output; the static-host support files are harmless on GitHub Pages.
 
 ## Account migration
 
