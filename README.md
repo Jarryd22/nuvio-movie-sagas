@@ -36,9 +36,12 @@ Python 3.12 or newer; no third-party Python packages.
 ```sh
 python -m unittest discover -s tests -v
 python src/build.py --config config.json --output dist --state .cache/state.json
+python src/verify_deploy.py --base-url https://YOUR-PUBLIC-CATALOGUE-HOST --config config.json --summary deployment-verification.json
 ```
 
 The builder reads authentication from environment variables. Do not paste a credential into the command line. `--date YYYY-MM-DD` is available for deterministic rotation tests. A successful build writes standard manifest/catalogue JSON, `selections.json` and a public metadata cache. The hosting workflow copies the landing page and artwork into the output afterward.
+
+Before connecting Nuvio, the deployment verifier must pass against the actual host. It checks all 45 catalogue endpoints, fixed spotlight headings, released IMDb-linked films in newest-first order, browser access headers, and a real 404 for an unknown catalogue. The `site/_headers` and `site/404.html` files also support Cloudflare Pages hosting while keeping this source repository private; include every file in `site/` in the published output.
 
 ## Account migration
 

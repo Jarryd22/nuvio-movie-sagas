@@ -53,7 +53,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           python src/build.py --config config.json --output dist --state .cache/state.json
-          cp site/index.html dist/index.html
+          cp site/* dist/
           cp -r assets dist/assets
           touch dist/.nojekyll
       - name: Save validated public catalogue cache
