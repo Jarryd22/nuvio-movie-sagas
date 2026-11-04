@@ -1,0 +1,321 @@
+{
+  "generated_at": "2026-11-04T07:30:08.156440Z",
+  "rotation_date": "2026-11-04",
+  "rows": [
+    {
+      "catalog_id": "featured",
+      "label": "Featured Saga",
+      "collection_id": 1733,
+      "collection_name": "The Mummy",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "space",
+      "label": "Space Saga",
+      "collection_id": 151,
+      "collection_name": "Star Trek — Original Films",
+      "movie_count": 6
+    },
+    {
+      "catalog_id": "dark-scifi",
+      "label": "Dark Sci-Fi",
+      "collection_id": 5547,
+      "collection_name": "RoboCop",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "fantasy",
+      "label": "Fantasy Quest",
+      "collection_id": 121938,
+      "collection_name": "The Hobbit",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "adventure",
+      "label": "Adventure Classic",
+      "collection_id": 10,
+      "collection_name": "Star Wars",
+      "movie_count": 9
+    },
+    {
+      "catalog_id": "action",
+      "label": "Action Saga",
+      "collection_id": 283579,
+      "collection_name": "Divergent",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "horror",
+      "label": "Horror Franchise",
+      "collection_id": 8091,
+      "collection_name": "Alien",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "rediscover",
+      "label": "Rediscover a Saga",
+      "collection_id": 2326,
+      "collection_name": "Underworld",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "collection-2344",
+      "label": "The Matrix",
+      "collection_id": 2344,
+      "collection_name": "The Matrix",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "collection-10",
+      "label": "Star Wars",
+      "collection_id": 10,
+      "collection_name": "Star Wars",
+      "movie_count": 9
+    },
+    {
+      "catalog_id": "collection-119",
+      "label": "The Lord of the Rings",
+      "collection_id": 119,
+      "collection_name": "The Lord of the Rings",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-121938",
+      "label": "The Hobbit",
+      "collection_id": 121938,
+      "collection_name": "The Hobbit",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-131635",
+      "label": "The Hunger Games",
+      "collection_id": 131635,
+      "collection_name": "The Hunger Games",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "collection-295",
+      "label": "Pirates of the Caribbean",
+      "collection_id": 295,
+      "collection_name": "Pirates of the Caribbean",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "collection-422837",
+      "label": "Blade Runner",
+      "collection_id": 422837,
+      "collection_name": "Blade Runner",
+      "movie_count": 2
+    },
+    {
+      "catalog_id": "collection-8091",
+      "label": "Alien",
+      "collection_id": 8091,
+      "collection_name": "Alien",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "collection-528",
+      "label": "Terminator",
+      "collection_id": 528,
+      "collection_name": "Terminator",
+      "movie_count": 6
+    },
+    {
+      "catalog_id": "collection-735",
+      "label": "Blade",
+      "collection_id": 735,
+      "collection_name": "Blade",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-1733",
+      "label": "The Mummy",
+      "collection_id": 1733,
+      "collection_name": "The Mummy",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-399",
+      "label": "Predator",
+      "collection_id": 399,
+      "collection_name": "Predator",
+      "movie_count": 6
+    },
+    {
+      "catalog_id": "collection-8945",
+      "label": "Mad Max",
+      "collection_id": 8945,
+      "collection_name": "Mad Max",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "collection-726871",
+      "label": "Dune",
+      "collection_id": 726871,
+      "collection_name": "Dune",
+      "movie_count": 2
+    },
+    {
+      "catalog_id": "collection-2794",
+      "label": "Riddick / Pitch Black",
+      "collection_id": 2794,
+      "collection_name": "Riddick / Pitch Black",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-63043",
+      "label": "Tron",
+      "collection_id": 63043,
+      "collection_name": "Tron",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-1241",
+      "label": "Harry Potter",
+      "collection_id": 1241,
+      "collection_name": "Harry Potter",
+      "movie_count": 8
+    },
+    {
+      "catalog_id": "collection-435259",
+      "label": "Fantastic Beasts",
+      "collection_id": 435259,
+      "collection_name": "Fantastic Beasts",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-328",
+      "label": "Jurassic Park & World",
+      "collection_id": 328,
+      "collection_name": "Jurassic Park & World",
+      "movie_count": 7
+    },
+    {
+      "catalog_id": "collection-84",
+      "label": "Indiana Jones",
+      "collection_id": 84,
+      "collection_name": "Indiana Jones",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "collection-264",
+      "label": "Back to the Future",
+      "collection_id": 264,
+      "collection_name": "Back to the Future",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-420",
+      "label": "The Chronicles of Narnia",
+      "collection_id": 420,
+      "collection_name": "The Chronicles of Narnia",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-87096",
+      "label": "Avatar",
+      "collection_id": 87096,
+      "collection_name": "Avatar",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-2326",
+      "label": "Underworld",
+      "collection_id": 2326,
+      "collection_name": "Underworld",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "collection-17255",
+      "label": "Resident Evil",
+      "collection_id": 17255,
+      "collection_name": "Resident Evil",
+      "movie_count": 6
+    },
+    {
+      "catalog_id": "collection-86055",
+      "label": "Men in Black",
+      "collection_id": 86055,
+      "collection_name": "Men in Black",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-2980",
+      "label": "Ghostbusters",
+      "collection_id": 2980,
+      "collection_name": "Ghostbusters",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "collection-5547",
+      "label": "RoboCop",
+      "collection_id": 5547,
+      "collection_name": "RoboCop",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-363369",
+      "label": "Pacific Rim",
+      "collection_id": 363369,
+      "collection_name": "Pacific Rim",
+      "movie_count": 2
+    },
+    {
+      "catalog_id": "collection-295130",
+      "label": "The Maze Runner",
+      "collection_id": 295130,
+      "collection_name": "The Maze Runner",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-283579",
+      "label": "Divergent",
+      "collection_id": 283579,
+      "collection_name": "Divergent",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-8650",
+      "label": "Transformers",
+      "collection_id": 8650,
+      "collection_name": "Transformers",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "collection-173710",
+      "label": "Planet of the Apes — Modern",
+      "collection_id": 173710,
+      "collection_name": "Planet of the Apes — Modern",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "collection-1709",
+      "label": "Planet of the Apes — Classics",
+      "collection_id": 1709,
+      "collection_name": "Planet of the Apes — Classics",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "collection-115575",
+      "label": "Star Trek — Modern",
+      "collection_id": 115575,
+      "collection_name": "Star Trek — Modern",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "collection-151",
+      "label": "Star Trek — Original Films",
+      "collection_id": 151,
+      "collection_name": "Star Trek — Original Films",
+      "movie_count": 6
+    },
+    {
+      "catalog_id": "collection-115570",
+      "label": "Star Trek — Next Generation",
+      "collection_id": 115570,
+      "collection_name": "Star Trek — Next Generation",
+      "movie_count": 4
+    }
+  ]
+}
