@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-04T07:30:08.156440Z",
-  "rotation_date": "2026-11-04",
+  "generated_at": "2026-11-04T19:45:05.307353Z",
+  "rotation_date": "2026-11-05",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 1733,
-      "collection_name": "The Mummy",
-      "movie_count": 3
+      "collection_id": 2344,
+      "collection_name": "The Matrix",
+      "movie_count": 4
     },
     {
       "catalog_id": "space",
       "label": "Space Saga",
-      "collection_id": 151,
-      "collection_name": "Star Trek — Original Films",
-      "movie_count": 6
+      "collection_id": 87096,
+      "collection_name": "Avatar",
+      "movie_count": 3
     },
     {
       "catalog_id": "dark-scifi",
       "label": "Dark Sci-Fi",
-      "collection_id": 5547,
-      "collection_name": "RoboCop",
-      "movie_count": 3
-    },
-    {
-      "catalog_id": "fantasy",
-      "label": "Fantasy Quest",
-      "collection_id": 121938,
-      "collection_name": "The Hobbit",
-      "movie_count": 3
-    },
-    {
-      "catalog_id": "adventure",
-      "label": "Adventure Classic",
-      "collection_id": 10,
-      "collection_name": "Star Wars",
-      "movie_count": 9
-    },
-    {
-      "catalog_id": "action",
-      "label": "Action Saga",
-      "collection_id": 283579,
-      "collection_name": "Divergent",
-      "movie_count": 3
-    },
-    {
-      "catalog_id": "horror",
-      "label": "Horror Franchise",
       "collection_id": 8091,
       "collection_name": "Alien",
       "movie_count": 4
     },
     {
+      "catalog_id": "fantasy",
+      "label": "Fantasy Quest",
+      "collection_id": 363369,
+      "collection_name": "Pacific Rim",
+      "movie_count": 2
+    },
+    {
+      "catalog_id": "adventure",
+      "label": "Adventure Classic",
+      "collection_id": 84,
+      "collection_name": "Indiana Jones",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "action",
+      "label": "Action Saga",
+      "collection_id": 295130,
+      "collection_name": "The Maze Runner",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "horror",
+      "label": "Horror Franchise",
+      "collection_id": 17255,
+      "collection_name": "Resident Evil",
+      "movie_count": 6
+    },
+    {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 2326,
-      "collection_name": "Underworld",
-      "movie_count": 5
+      "collection_id": 2794,
+      "collection_name": "Riddick / Pitch Black",
+      "movie_count": 3
     },
     {
       "catalog_id": "collection-2344",
