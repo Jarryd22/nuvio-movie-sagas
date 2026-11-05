@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-05T06:46:34.580279Z",
-  "rotation_date": "2026-11-05",
+  "generated_at": "2026-11-05T19:57:32.558390Z",
+  "rotation_date": "2026-11-06",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 2344,
-      "collection_name": "The Matrix",
-      "movie_count": 4
-    },
-    {
-      "catalog_id": "space",
-      "label": "Space Saga",
-      "collection_id": 87096,
-      "collection_name": "Avatar",
-      "movie_count": 3
-    },
-    {
-      "catalog_id": "dark-scifi",
-      "label": "Dark Sci-Fi",
       "collection_id": 8091,
       "collection_name": "Alien",
       "movie_count": 4
     },
     {
+      "catalog_id": "space",
+      "label": "Space Saga",
+      "collection_id": 115570,
+      "collection_name": "Star Trek — Next Generation",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "dark-scifi",
+      "label": "Dark Sci-Fi",
+      "collection_id": 422837,
+      "collection_name": "Blade Runner",
+      "movie_count": 2
+    },
+    {
       "catalog_id": "fantasy",
       "label": "Fantasy Quest",
+      "collection_id": 435259,
+      "collection_name": "Fantastic Beasts",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "adventure",
+      "label": "Adventure Classic",
+      "collection_id": 119,
+      "collection_name": "The Lord of the Rings",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "action",
+      "label": "Action Saga",
       "collection_id": 363369,
       "collection_name": "Pacific Rim",
       "movie_count": 2
     },
     {
-      "catalog_id": "adventure",
-      "label": "Adventure Classic",
-      "collection_id": 84,
-      "collection_name": "Indiana Jones",
-      "movie_count": 5
-    },
-    {
-      "catalog_id": "action",
-      "label": "Action Saga",
-      "collection_id": 295130,
-      "collection_name": "The Maze Runner",
-      "movie_count": 3
-    },
-    {
       "catalog_id": "horror",
       "label": "Horror Franchise",
-      "collection_id": 17255,
-      "collection_name": "Resident Evil",
+      "collection_id": 228446,
+      "collection_name": "Insidious Collection",
       "movie_count": 6
     },
     {
