@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T13:24:08.775902Z",
-  "rotation_date": "2026-11-08",
+  "generated_at": "2026-11-08T22:04:51.288230Z",
+  "rotation_date": "2026-11-09",
   "rows": [
     {
       "catalog_id": "featured",
@@ -12,51 +12,51 @@
     {
       "catalog_id": "space",
       "label": "Space Saga",
-      "collection_id": 726871,
-      "collection_name": "Dune",
-      "movie_count": 2
-    },
-    {
-      "catalog_id": "dark-scifi",
-      "label": "Dark Sci-Fi",
-      "collection_id": 528,
-      "collection_name": "Terminator",
-      "movie_count": 6
-    },
-    {
-      "catalog_id": "fantasy",
-      "label": "Fantasy Quest",
-      "collection_id": 295,
-      "collection_name": "Pirates of the Caribbean",
-      "movie_count": 5
-    },
-    {
-      "catalog_id": "adventure",
-      "label": "Adventure Classic",
-      "collection_id": 264,
-      "collection_name": "Back to the Future",
-      "movie_count": 3
-    },
-    {
-      "catalog_id": "action",
-      "label": "Action Saga",
       "collection_id": 10,
       "collection_name": "Star Wars",
       "movie_count": 9
     },
     {
+      "catalog_id": "dark-scifi",
+      "label": "Dark Sci-Fi",
+      "collection_id": 2344,
+      "collection_name": "The Matrix",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "fantasy",
+      "label": "Fantasy Quest",
+      "collection_id": 420,
+      "collection_name": "The Chronicles of Narnia",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "adventure",
+      "label": "Adventure Classic",
+      "collection_id": 295,
+      "collection_name": "Pirates of the Caribbean",
+      "movie_count": 5
+    },
+    {
+      "catalog_id": "action",
+      "label": "Action Saga",
+      "collection_id": 84,
+      "collection_name": "Indiana Jones",
+      "movie_count": 5
+    },
+    {
       "catalog_id": "horror",
       "label": "Horror Franchise",
-      "collection_id": 735,
-      "collection_name": "Blade",
-      "movie_count": 3
+      "collection_id": 2326,
+      "collection_name": "Underworld",
+      "movie_count": 5
     },
     {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 5547,
-      "collection_name": "RoboCop",
-      "movie_count": 3
+      "collection_id": 8091,
+      "collection_name": "Alien",
+      "movie_count": 4
     },
     {
       "catalog_id": "collection-2344",
