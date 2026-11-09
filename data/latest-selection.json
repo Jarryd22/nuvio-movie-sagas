@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-09T06:26:53.390183Z",
-  "rotation_date": "2026-11-09",
+  "generated_at": "2026-11-09T22:21:47.566291Z",
+  "rotation_date": "2026-11-10",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 119,
-      "collection_name": "The Lord of the Rings",
-      "movie_count": 3
+      "collection_id": 528,
+      "collection_name": "Terminator",
+      "movie_count": 6
     },
     {
       "catalog_id": "space",
       "label": "Space Saga",
-      "collection_id": 10,
-      "collection_name": "Star Wars",
-      "movie_count": 9
+      "collection_id": 151,
+      "collection_name": "Star Trek — Original Films",
+      "movie_count": 6
     },
     {
       "catalog_id": "dark-scifi",
       "label": "Dark Sci-Fi",
-      "collection_id": 2344,
-      "collection_name": "The Matrix",
-      "movie_count": 4
+      "collection_id": 2794,
+      "collection_name": "Riddick / Pitch Black",
+      "movie_count": 3
     },
     {
       "catalog_id": "fantasy",
       "label": "Fantasy Quest",
-      "collection_id": 420,
-      "collection_name": "The Chronicles of Narnia",
+      "collection_id": 735,
+      "collection_name": "Blade",
       "movie_count": 3
     },
     {
       "catalog_id": "adventure",
       "label": "Adventure Classic",
-      "collection_id": 295,
-      "collection_name": "Pirates of the Caribbean",
-      "movie_count": 5
+      "collection_id": 328,
+      "collection_name": "Jurassic Park & World",
+      "movie_count": 7
     },
     {
       "catalog_id": "action",
       "label": "Action Saga",
-      "collection_id": 84,
-      "collection_name": "Indiana Jones",
-      "movie_count": 5
+      "collection_id": 119,
+      "collection_name": "The Lord of the Rings",
+      "movie_count": 3
     },
     {
       "catalog_id": "horror",
       "label": "Horror Franchise",
-      "collection_id": 2326,
-      "collection_name": "Underworld",
-      "movie_count": 5
+      "collection_id": 228446,
+      "collection_name": "Insidious Collection",
+      "movie_count": 6
     },
     {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 8091,
-      "collection_name": "Alien",
-      "movie_count": 4
+      "collection_id": 399,
+      "collection_name": "Predator",
+      "movie_count": 6
     },
     {
       "catalog_id": "collection-2344",
