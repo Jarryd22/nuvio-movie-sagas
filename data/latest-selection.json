@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-10T07:17:50.282606Z",
-  "rotation_date": "2026-11-10",
+  "generated_at": "2026-11-10T19:43:46.259330Z",
+  "rotation_date": "2026-11-11",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 528,
-      "collection_name": "Terminator",
-      "movie_count": 6
+      "collection_id": 1733,
+      "collection_name": "The Mummy",
+      "movie_count": 3
     },
     {
       "catalog_id": "space",
       "label": "Space Saga",
-      "collection_id": 151,
-      "collection_name": "Star Trek — Original Films",
-      "movie_count": 6
+      "collection_id": 87096,
+      "collection_name": "Avatar",
+      "movie_count": 3
     },
     {
       "catalog_id": "dark-scifi",
       "label": "Dark Sci-Fi",
-      "collection_id": 2794,
-      "collection_name": "Riddick / Pitch Black",
+      "collection_id": 5547,
+      "collection_name": "RoboCop",
       "movie_count": 3
     },
     {
       "catalog_id": "fantasy",
       "label": "Fantasy Quest",
-      "collection_id": 735,
-      "collection_name": "Blade",
-      "movie_count": 3
+      "collection_id": 1241,
+      "collection_name": "Harry Potter",
+      "movie_count": 8
     },
     {
       "catalog_id": "adventure",
       "label": "Adventure Classic",
-      "collection_id": 328,
-      "collection_name": "Jurassic Park & World",
-      "movie_count": 7
+      "collection_id": 399,
+      "collection_name": "Predator",
+      "movie_count": 6
     },
     {
       "catalog_id": "action",
       "label": "Action Saga",
-      "collection_id": 119,
-      "collection_name": "The Lord of the Rings",
-      "movie_count": 3
+      "collection_id": 151,
+      "collection_name": "Star Trek — Original Films",
+      "movie_count": 6
     },
     {
       "catalog_id": "horror",
       "label": "Horror Franchise",
-      "collection_id": 228446,
-      "collection_name": "Insidious Collection",
-      "movie_count": 6
+      "collection_id": 1474814,
+      "collection_name": "Godzilla Minus Collection",
+      "movie_count": 2
     },
     {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 399,
-      "collection_name": "Predator",
-      "movie_count": 6
+      "collection_id": 420,
+      "collection_name": "The Chronicles of Narnia",
+      "movie_count": 3
     },
     {
       "catalog_id": "collection-2344",
