@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-12T07:09:40.582308Z",
-  "rotation_date": "2026-11-12",
+  "generated_at": "2026-11-12T19:54:29.174194Z",
+  "rotation_date": "2026-11-13",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 2344,
-      "collection_name": "The Matrix",
-      "movie_count": 4
-    },
-    {
-      "catalog_id": "space",
-      "label": "Space Saga",
-      "collection_id": 115570,
-      "collection_name": "Star Trek — Next Generation",
-      "movie_count": 4
-    },
-    {
-      "catalog_id": "dark-scifi",
-      "label": "Dark Sci-Fi",
       "collection_id": 8091,
       "collection_name": "Alien",
       "movie_count": 4
     },
     {
+      "catalog_id": "space",
+      "label": "Space Saga",
+      "collection_id": 115575,
+      "collection_name": "Star Trek — Modern",
+      "movie_count": 3
+    },
+    {
+      "catalog_id": "dark-scifi",
+      "label": "Dark Sci-Fi",
+      "collection_id": 422837,
+      "collection_name": "Blade Runner",
+      "movie_count": 2
+    },
+    {
       "catalog_id": "fantasy",
       "label": "Fantasy Quest",
-      "collection_id": 1733,
-      "collection_name": "The Mummy",
-      "movie_count": 3
+      "collection_id": 2326,
+      "collection_name": "Underworld",
+      "movie_count": 5
     },
     {
       "catalog_id": "adventure",
       "label": "Adventure Classic",
-      "collection_id": 420,
-      "collection_name": "The Chronicles of Narnia",
-      "movie_count": 3
+      "collection_id": 528,
+      "collection_name": "Terminator",
+      "movie_count": 6
     },
     {
       "catalog_id": "action",
       "label": "Action Saga",
-      "collection_id": 263,
-      "collection_name": "The Dark Knight Collection",
-      "movie_count": 3
+      "collection_id": 295,
+      "collection_name": "Pirates of the Caribbean",
+      "movie_count": 5
     },
     {
       "catalog_id": "horror",
       "label": "Horror Franchise",
-      "collection_id": 1507701,
-      "collection_name": "Apocalypse Z Collection",
-      "movie_count": 2
+      "collection_id": 735,
+      "collection_name": "Blade",
+      "movie_count": 3
     },
     {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 528,
-      "collection_name": "Terminator",
-      "movie_count": 6
+      "collection_id": 1241,
+      "collection_name": "Harry Potter",
+      "movie_count": 8
     },
     {
       "catalog_id": "collection-2344",
