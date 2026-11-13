@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-13T06:45:05.376702Z",
-  "rotation_date": "2026-11-13",
+  "generated_at": "2026-11-13T19:41:44.180356Z",
+  "rotation_date": "2026-11-14",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 8091,
-      "collection_name": "Alien",
-      "movie_count": 4
-    },
-    {
-      "catalog_id": "space",
-      "label": "Space Saga",
-      "collection_id": 115575,
-      "collection_name": "Star Trek — Modern",
-      "movie_count": 3
-    },
-    {
-      "catalog_id": "dark-scifi",
-      "label": "Dark Sci-Fi",
       "collection_id": 422837,
       "collection_name": "Blade Runner",
       "movie_count": 2
     },
     {
+      "catalog_id": "space",
+      "label": "Space Saga",
+      "collection_id": 726871,
+      "collection_name": "Dune",
+      "movie_count": 2
+    },
+    {
+      "catalog_id": "dark-scifi",
+      "label": "Dark Sci-Fi",
+      "collection_id": 399,
+      "collection_name": "Predator",
+      "movie_count": 6
+    },
+    {
       "catalog_id": "fantasy",
       "label": "Fantasy Quest",
+      "collection_id": 2980,
+      "collection_name": "Ghostbusters",
+      "movie_count": 4
+    },
+    {
+      "catalog_id": "adventure",
+      "label": "Adventure Classic",
+      "collection_id": 1241,
+      "collection_name": "Harry Potter",
+      "movie_count": 8
+    },
+    {
+      "catalog_id": "action",
+      "label": "Action Saga",
+      "collection_id": 328,
+      "collection_name": "Jurassic Park & World",
+      "movie_count": 7
+    },
+    {
+      "catalog_id": "horror",
+      "label": "Horror Franchise",
       "collection_id": 2326,
       "collection_name": "Underworld",
       "movie_count": 5
     },
     {
-      "catalog_id": "adventure",
-      "label": "Adventure Classic",
-      "collection_id": 528,
-      "collection_name": "Terminator",
-      "movie_count": 6
-    },
-    {
-      "catalog_id": "action",
-      "label": "Action Saga",
-      "collection_id": 295,
-      "collection_name": "Pirates of the Caribbean",
-      "movie_count": 5
-    },
-    {
-      "catalog_id": "horror",
-      "label": "Horror Franchise",
-      "collection_id": 735,
-      "collection_name": "Blade",
-      "movie_count": 3
-    },
-    {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 1241,
-      "collection_name": "Harry Potter",
-      "movie_count": 8
+      "collection_id": 1709,
+      "collection_name": "Planet of the Apes — Classics",
+      "movie_count": 5
     },
     {
       "catalog_id": "collection-2344",
