@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-21T07:06:29.081316Z",
-  "rotation_date": "2026-11-21",
+  "generated_at": "2026-11-21T19:15:16.363771Z",
+  "rotation_date": "2026-11-22",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 422837,
-      "collection_name": "Blade Runner",
-      "movie_count": 2
-    },
-    {
-      "catalog_id": "space",
-      "label": "Space Saga",
       "collection_id": 10,
       "collection_name": "Star Wars",
       "movie_count": 9
     },
     {
+      "catalog_id": "space",
+      "label": "Space Saga",
+      "collection_id": 151,
+      "collection_name": "Star Trek — Original Films",
+      "movie_count": 6
+    },
+    {
       "catalog_id": "dark-scifi",
       "label": "Dark Sci-Fi",
-      "collection_id": 399,
-      "collection_name": "Predator",
+      "collection_id": 528,
+      "collection_name": "Terminator",
       "movie_count": 6
     },
     {
       "catalog_id": "fantasy",
       "label": "Fantasy Quest",
-      "collection_id": 420,
-      "collection_name": "The Chronicles of Narnia",
-      "movie_count": 3
+      "collection_id": 1241,
+      "collection_name": "Harry Potter",
+      "movie_count": 8
     },
     {
       "catalog_id": "adventure",
       "label": "Adventure Classic",
-      "collection_id": 17255,
-      "collection_name": "Resident Evil",
-      "movie_count": 6
+      "collection_id": 63043,
+      "collection_name": "Tron",
+      "movie_count": 3
     },
     {
       "catalog_id": "action",
       "label": "Action Saga",
-      "collection_id": 84,
-      "collection_name": "Indiana Jones",
-      "movie_count": 5
+      "collection_id": 173710,
+      "collection_name": "Planet of the Apes — Modern",
+      "movie_count": 4
     },
     {
       "catalog_id": "horror",
       "label": "Horror Franchise",
-      "collection_id": 1507701,
-      "collection_name": "Apocalypse Z Collection",
-      "movie_count": 2
+      "collection_id": 735,
+      "collection_name": "Blade",
+      "movie_count": 3
     },
     {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 119,
-      "collection_name": "The Lord of the Rings",
-      "movie_count": 3
+      "collection_id": 84,
+      "collection_name": "Indiana Jones",
+      "movie_count": 5
     },
     {
       "catalog_id": "collection-2344",
