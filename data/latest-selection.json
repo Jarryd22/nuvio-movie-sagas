@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-11-27T08:31:54.190897Z",
-  "rotation_date": "2026-11-27",
+  "generated_at": "2026-11-27T21:16:28.639228Z",
+  "rotation_date": "2026-11-28",
   "rows": [
     {
       "catalog_id": "featured",
       "label": "Featured Saga",
-      "collection_id": 8091,
-      "collection_name": "Alien",
-      "movie_count": 4
-    },
-    {
-      "catalog_id": "space",
-      "label": "Space Saga",
-      "collection_id": 10,
-      "collection_name": "Star Wars",
-      "movie_count": 9
-    },
-    {
-      "catalog_id": "dark-scifi",
-      "label": "Dark Sci-Fi",
       "collection_id": 422837,
       "collection_name": "Blade Runner",
       "movie_count": 2
     },
     {
-      "catalog_id": "fantasy",
-      "label": "Fantasy Quest",
-      "collection_id": 87096,
-      "collection_name": "Avatar",
-      "movie_count": 3
+      "catalog_id": "space",
+      "label": "Space Saga",
+      "collection_id": 151,
+      "collection_name": "Star Trek — Original Films",
+      "movie_count": 6
     },
     {
-      "catalog_id": "adventure",
-      "label": "Adventure Classic",
+      "catalog_id": "dark-scifi",
+      "label": "Dark Sci-Fi",
+      "collection_id": 399,
+      "collection_name": "Predator",
+      "movie_count": 6
+    },
+    {
+      "catalog_id": "fantasy",
+      "label": "Fantasy Quest",
       "collection_id": 121938,
       "collection_name": "The Hobbit",
       "movie_count": 3
     },
     {
+      "catalog_id": "adventure",
+      "label": "Adventure Classic",
+      "collection_id": 131635,
+      "collection_name": "The Hunger Games",
+      "movie_count": 4
+    },
+    {
       "catalog_id": "action",
       "label": "Action Saga",
-      "collection_id": 1474814,
-      "collection_name": "Godzilla Minus Collection",
+      "collection_id": 1507701,
+      "collection_name": "Apocalypse Z Collection",
       "movie_count": 2
     },
     {
       "catalog_id": "horror",
       "label": "Horror Franchise",
-      "collection_id": 986072,
-      "collection_name": "Becky Collection",
-      "movie_count": 3
+      "collection_id": 1474814,
+      "collection_name": "Godzilla Minus Collection",
+      "movie_count": 2
     },
     {
       "catalog_id": "rediscover",
       "label": "Rediscover a Saga",
-      "collection_id": 264,
-      "collection_name": "Back to the Future",
-      "movie_count": 3
+      "collection_id": 295,
+      "collection_name": "Pirates of the Caribbean",
+      "movie_count": 5
     },
     {
       "catalog_id": "collection-2344",
